@@ -3,9 +3,7 @@
 This project demonstrates training a YOLOv8 model on the Aquarium Dataset using a custom Google Colab notebook. The goal is to detect various aquatic species, including fish, jellyfish, penguins, and more.
 
 ## Project Structure
-- **notebooks/**: Contains the main Colab notebook with training code and explanations.
-- **data/**: Instructions to download and prepare the dataset.
-- **images/**: Sample result images from model predictions (optional).
+- **Code File/**: Contains the main Colab notebook with training code.
 - **README.md**: Project overview and usage instructions.
 
 ## Getting Started
