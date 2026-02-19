@@ -48,7 +48,7 @@ Key metrics analyzed after training:
 - **Precision and Recall**: Assesses model accuracy and false positives.
 - **Loss Metrics**: Training loss, classification loss, and localization loss.
 
-Sample visualizations of predictions can be found in the `images/` folder.
+
 
 ## Usage
 To reproduce the results:
